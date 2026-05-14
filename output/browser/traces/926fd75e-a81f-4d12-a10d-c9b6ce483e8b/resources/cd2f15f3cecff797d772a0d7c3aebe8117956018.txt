@@ -1,0 +1,1 @@
+{"response_type":"token","grant_type":"cookie","client_id":"c5e4f61e1a6c3b1521b541bc5c5a2ac5","organization_id":"ee5abcbe-bf8e-44c9-8721-fc0613f59083","redirect_uri":"https://secure.livechatinc.com/customer/action/open_chat"}
