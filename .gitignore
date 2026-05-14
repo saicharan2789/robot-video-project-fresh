@@ -1,0 +1,19 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+
+# Robot outputs
+output/
+log.html
+report.html
+output.xml
+playwright-log.txt
+
+# Playwright artifacts
+*.webm
+*.zip
+*.har
+
+# Mac
+.DS_Store
